@@ -2,7 +2,7 @@
 
 #### Details
 
-Implement (in Octave) of the backpropagation algorithm for neural networks.
+Implemention (in Octave) of the backpropagation algorithm for neural networks.
 The file ex3data1.mat contains 5000 training examples where each example 
 is 20x20 pixel grayscale image of a digit (i.e. MNIST dataset)
 
