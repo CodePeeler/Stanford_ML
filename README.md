@@ -1,5 +1,6 @@
-# Stanford_ML
-My solutions to some of the more challenging assignment from the Stanford Machine Learning Course.
+# Stanford - Machine Learning
 
-N.B: This course has now been retired (so there is no harm in sharing solutions). 
-The new extended and revised course will be offered in python.
+My solutions to some of the more challenging assignment from the [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) Machine Learning Course.
+
+N.B: This course has been retired (so I see no harm in sharing these solutions). 
+The new extended and revised course available through [coursera](https://www.coursera.org/) will be offered in python.
