@@ -138,15 +138,6 @@ for t=1:m
 endfor
 
 ## Implement Regularization here!
-##Theta1(:,1) = 0;
-##Theta2(:,1) = 0;
-##Theta1_grad = D1./m + (lambda/m)*Theta1;
-##Theta2_grad = D2./m + (lambda/m)*Theta2;
-
-## Better way to implement Regularization.
-##Theta1_grad = D1./m + [zeros(size(Theta1,1), 1), (lambda/m)*(Theta1(:, 2:end))];
-##Theta2_grad = D2./m + [zeros(size(Theta2,1), 1), (lambda/m)*(Theta2(:, 2:end))];
-
 Theta1_grad = D1./m;
 Theta2_grad = D2./m;
 
