@@ -6,12 +6,14 @@ This course has been retired (*so I see no harm in sharing these solutions*).
 The new extended and revised course available through [coursera](https://www.coursera.org/) will be offered in python.
 
 
-#### Index:
+## Index
 
-##### Week 5: [Neural Networks](https://github.com/CodePeeler/Stanford_ML/tree/master/Week_5/ex4-octave#stanford-machine-learning-solution-set-week-5)
 
-##### Week 6: [Bias v Variance](https://github.com/CodePeeler/Stanford_ML/tree/master/week_6)
 
-##### Week 7: [Support Vector Machines](https://github.com/CodePeeler/Stanford_ML/tree/master/week_7)
+#### Week 5: [Neural Networks](./Week_5/ex4-octave#stanford-machine-learning-solution-set-week-5)
 
-##### Week 8: [K-meas Clustering](https://github.com/CodePeeler/Stanford_ML/tree/master/week_8)
+#### Week 6: [Bias v Variance](./week_6)
+
+#### Week 7: [Support Vector Machines](./week_7)
+
+#### Week 8: [K-meas Clustering](./week_8)
